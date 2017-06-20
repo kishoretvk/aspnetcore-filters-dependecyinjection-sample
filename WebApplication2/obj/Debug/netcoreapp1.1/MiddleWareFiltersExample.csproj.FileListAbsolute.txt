@@ -1,0 +1,9 @@
+C:\Users\kisho\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\MiddleWareFiltersExample.deps.json
+C:\Users\kisho\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\MiddleWareFiltersExample.runtimeconfig.json
+C:\Users\kisho\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\MiddleWareFiltersExample.runtimeconfig.dev.json
+C:\Users\kisho\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\MiddleWareFiltersExample.csprojResolveAssemblyReference.cache
+C:\Users\kisho\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\MiddleWareFiltersExample.AssemblyInfo.cs
+C:\Users\kisho\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\MiddleWareFiltersExample.dll
+C:\Users\kisho\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\bin\Debug\netcoreapp1.1\MiddleWareFiltersExample.pdb
+C:\Users\kisho\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\MiddleWareFiltersExample.dll
+C:\Users\kisho\documents\visual studio 2017\Projects\WebApplication2\WebApplication2\obj\Debug\netcoreapp1.1\MiddleWareFiltersExample.pdb
